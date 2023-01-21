@@ -27,11 +27,11 @@ an Electrical Engineer and Researcher with an interest in Robotics, Automation &
 ### Hi there 👋, My name is Md Khurram Monir Rabby
 an Electrical Engineer and Researcher with an interest in Robotics, Automation & Control Systems, AI, Computer Vision, and Power Engineering  -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkmrabby&label=Profile%20views&color=0e75b6&style=flat" alt="mkmrabby" /> </p>
+
 <h3 align="left">Hi 👋, I'm Khurram Rabby</h3>
 ***
 <h3 align="center">an Electrical Engineer and Researcher with an interest in Robotics, Automation & Control Systems, AI, Computer Vision, and Power Engineering</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkmrabby&label=Profile%20views&color=0e75b6&style=flat" alt="mkmrabby" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkmrabby" alt="mkmrabby" /></a> </p>
 
