@@ -1,8 +1,4 @@
-
-### Hi there 👋, My name is Md Khurram Monir Rabby
-an Electrical Engineer and Researcher with an interest in Robotics, Automation & Control Systems, AI, Computer Vision, and Power Engineering
-
-Skills: Robotics / AI / Computer Vision / System Automation & Control
+<!-- Skills: Robotics / AI / Computer Vision / System Automation & Control
 
 - 🔭 I’m currently working on FedEx 
 - 👯 I’m looking to collaborate on Robotics, Computer Vision, and AI 
@@ -20,7 +16,12 @@ Skills: Robotics / AI / Computer Vision / System Automation & Control
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/mkmrabby)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/mkmrabby)  
+![Profile views](https://gpvc.arturio.dev/https://github.com/mkmrabby)   -->
+
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/mkmrabby) 
+### Hi 👋, 1'm Khurram Rabby
+an Electrical Engineer and Researcher with an interest in Robotics, Automation & Control Systems, AI, Computer Vision, and Power Engineering
 
 
 ### Hi there 👋, My name is Md Khurram Monir Rabby
