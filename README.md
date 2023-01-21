@@ -23,7 +23,8 @@ Skills: Robotics / AI / Computer Vision / System Automation & Control
 ![Profile views](https://gpvc.arturio.dev/https://github.com/mkmrabby)  
 
 
-
+### Hi there 👋, My name is Md Khurram Monir Rabby
+an Electrical Engineer and Researcher with an interest in Robotics, Automation & Control Systems, AI, Computer Vision, and Power Engineering
 
 <h1 align="center">Hi 👋, 
   I'm Md Khurram Monir Rabby</h1>
