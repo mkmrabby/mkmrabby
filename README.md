@@ -72,6 +72,12 @@ I’m an Electrical Engineer and Researcher with an interest in *Robotics*, *Aut
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkmrabby&show_icons=true&locale=en" alt="mkmrabby" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkmrabby&" alt="mkmrabby" /></p> -->
-  
+
+
+<h8 align="left">Thankful to the following reference for buildup this webpage 👇 </h9>
+1. [Create an Amazing GitHub Profile Bangla](https://www.youtube.com/watch?v=5MJq-1lprlU&list=WL&index=398&t=8s)
+2. [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+3. [GitHub Profile Readme Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/)
+
 </body>
 </html>
