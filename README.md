@@ -30,7 +30,10 @@ I’m an Electrical Engineer and Researcher with an interest in *Robotics*, *Aut
  <p align="left"> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="30" height="30"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/> </a> </p>
   
  <h6 align="left">Data Visualization:</h6>
- <p align="left"> <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg" alt="Power BI Logo" width="30" height="30"/> </a> </p> 
+ <p align="left"> <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg" alt="Power BI Logo" width="30" height="30"/> </a> 
+ <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mkmrabby/mkmrabby/blob/main/tableau.png" alt="tableau" width="100" height="30"/> </a> 
+ 
+ </p> 
   
   
  <h6 align="left">Devops:</h6> 
@@ -50,7 +53,7 @@ I’m an Electrical Engineer and Researcher with an interest in *Robotics*, *Aut
   <p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/> </a> </p>  
  
  <h6 align="left">Robotic Softwares and Libraries:</h6>
- <p align="left"> <a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/10261903/174557418-1a83fbb7-e12b-4edb-b99f-5aaf8eed5cae.png" alt="gazebo" width="80" height="60"/> </a> <a href="https://www.coppeliarobotics.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mkmrabby/mkmrabby/blob/main/V-rep-logo.png" alt="V-Rep" width="60" height="40"/> </a> </p>
+ <p align="left"> <a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/10261903/174557418-1a83fbb7-e12b-4edb-b99f-5aaf8eed5cae.png" alt="gazebo" width="90" height="60"/> </a> <a href="https://www.coppeliarobotics.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mkmrabby/mkmrabby/blob/main/V-rep-logo.png" alt="V-Rep" width="60" height="40"/> </a> <a href="http://wiki.ros.org/rviz" target="_blank" rel="noreferrer"> <img src="https://github.com/mkmrabby/mkmrabby/blob/main/rviz.png" alt="R-Viz" width="50" height="30"/> </a> </p>
   
   <h6 align="left">Operating Systems:</h6> 
   <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> </a> 
