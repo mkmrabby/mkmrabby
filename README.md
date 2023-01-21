@@ -1,12 +1,8 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
-<body>
+<body> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkmrabby&label=Profile%20views&color=0e75b6&style=flat" alt="mkmrabby" /> </p>
- 
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="md-khurram-monir-rabby-473053109" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/md-khurram-monir-rabby-473053109?trk=profile-badge">Md Khurram Monir Rabby</a></div>
  
 <h4 align="left">Hi 👋, I'm Khurram Rabby</h4>
 
@@ -83,5 +79,5 @@ I’m an Electrical Engineer and Researcher with an interest in *Robotics*, *Aut
 2. [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 3. [Generate GitHub Profile Readme](https://arturssmirnovs.github.io/github-profile-readme-generator/) -->
 
-</body>
-</html>
+<!-- </body>
+</html> -->
