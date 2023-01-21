@@ -1,3 +1,29 @@
+### Hi there 👋, My name is Md Khurram Monir Rabby
+an Electrical Engineer and Researcher with an interest in Robotics, Automation & Control Systems, AI, Computer Vision, and Power Engineering
+
+Skills: Robotics / AI / Computer Vision / System Automation & Control
+
+- 🔭 I’m currently working on FedEx 
+- 👯 I’m looking to collaborate on Robotics, Computer Vision, and AI 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mkmrabby)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-khurram-monir-rabby-473053109/)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/mkmrabby)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/mkmrabby)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/mkmrabby&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/mkmrabby)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/mkmrabby)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/mkmrabby)  
+
+
+
+
 <h1 align="center">Hi 👋, 
   I'm Md Khurram Monir Rabby</h1>
 <h3 align="center">an Electrical Engineer and Researcher with an interest in Robotics, Automation & Control Systems, AI, Computer Vision, and Power Engineering</h3>
