@@ -46,7 +46,6 @@ I’m an Electrical Engineer and Researcher with an interest in Robotics, Automa
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md-khurram-monir-rabby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-khurram-monir-rabby" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mrabby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrabby" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkmrabby&show_icons=true&locale=en&layout=compact" alt="mkmrabby" /></p>
