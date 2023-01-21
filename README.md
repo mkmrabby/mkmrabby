@@ -53,7 +53,12 @@ I’m an Electrical Engineer and Researcher with an interest in *Robotics*, *Aut
  <p align="left"> <a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/10261903/174557418-1a83fbb7-e12b-4edb-b99f-5aaf8eed5cae.png" alt="gazebo" width="80" height="60"/> </a> <a href="https://www.coppeliarobotics.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mkmrabby/mkmrabby/blob/main/V-rep-logo.png" alt="V-Rep" width="60" height="40"/> </a> </p>
   
   <h6 align="left">Operating Systems:</h6> 
-  <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> </p>
+  <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
+ 
+ <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="ROS" width="30" height="30"/> </a> 
+ </p>
+
+ 
 
   
 <h4 align="left">Connect with me 👨‍💻</h4>
