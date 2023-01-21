@@ -52,11 +52,8 @@ I’m an Electrical Engineer and Researcher with an interest in *Robotics*, *Aut
   <h3 align="left">Operating Systems:</h3> 
   <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
   
-<h3 align="left">Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/md-khurram-monir-rabby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-khurram-monir-rabby" height="30" width="40" /></a>
-</p>
-</h3>
+<h2 align="left">Connect with me 👨‍💻</h2>
+ <p align="left"> <a href="https://www.linkedin.com/in/md-khurram-monir-rabby-473053109" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" width="240" height="40"/> </a> </p> 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkmrabby&show_icons=true&locale=en&layout=compact" alt="mkmrabby" /></p>
 
