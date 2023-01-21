@@ -28,6 +28,7 @@ an Electrical Engineer and Researcher with an interest in Robotics, Automation &
 an Electrical Engineer and Researcher with an interest in Robotics, Automation & Control Systems, AI, Computer Vision, and Power Engineering  -->
 
 <h3 align="left">Hi 👋, I'm Khurram Rabby</h3>
+***
 <h3 align="center">an Electrical Engineer and Researcher with an interest in Robotics, Automation & Control Systems, AI, Computer Vision, and Power Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkmrabby&label=Profile%20views&color=0e75b6&style=flat" alt="mkmrabby" /> </p>
