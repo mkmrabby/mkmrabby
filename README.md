@@ -1,6 +1,3 @@
-<!-- <!DOCTYPE html>
-<html>
-<body> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkmrabby&label=Profile%20views&color=0e75b6&style=flat" alt="mkmrabby" /> </p>
  
@@ -75,6 +72,3 @@ I’m an Electrical Engineer and Researcher with an interest in *Robotics*, *Aut
 1. [Create an Amazing GitHub Profile Bangla](https://www.youtube.com/watch?v=5MJq-1lprlU&list=WL&index=398&t=8s)
 2. [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 3. [Generate GitHub Profile Readme](https://arturssmirnovs.github.io/github-profile-readme-generator/) -->
-
-<!-- </body>
-</html> -->
