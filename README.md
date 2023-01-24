@@ -3,6 +3,8 @@
 <body> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkmrabby&label=Profile%20views&color=0e75b6&style=flat" alt="mkmrabby" /> </p>
+
+
  
 <h4 align="left">Hi 👋, I'm Khurram Rabby</h4>
 
@@ -23,7 +25,7 @@ I’m an Electrical Engineer and Researcher with an interest in *Robotics*, *Aut
 <p align="left"> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="30" height="30"/> </a> </p>
 
 <h6 align="left">Mobile App Development:</h6>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> </p>
 
  <h6 align="left">Artificial Intelligence (AI) / Machine Learning (ML):</h6>
 <p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> </a> </p>
@@ -72,7 +74,6 @@ I’m an Electrical Engineer and Researcher with an interest in *Robotics*, *Aut
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkmrabby&show_icons=true&locale=en" alt="mkmrabby" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkmrabby&" alt="mkmrabby" /></p> -->
-
 
 <!-- <h4 align="left">Thankful to the following reference for buildup this webpage 👇 </h4>
 1. [Create an Amazing GitHub Profile Bangla](https://www.youtube.com/watch?v=5MJq-1lprlU&list=WL&index=398&t=8s)
