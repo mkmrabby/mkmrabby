@@ -5,7 +5,7 @@
 
 <h4 align="left"> About Me 🚀</h4>
  <hr>
-I’m an Electrical Engineer and Researcher with an interest in *Robotics*, *Automation & Control Systems*, *AI*, *Computer Vision*, and *Power Engineering*  
+I’m an Electrical Engineer and Researcher with an interest in *Automation & Control Systems*, *Robotics*, *AI*, *Computer Vision*, and *Power Engineering*  
 
 <h4 align="left">Skills, Languages and Tools 👨‍💻</h4>
 <hr>
